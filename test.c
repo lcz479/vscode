@@ -3,6 +3,7 @@
 int main()
 {
 printf("lcz");
+printf("hello world");
 
 
 }
